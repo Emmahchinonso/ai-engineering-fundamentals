@@ -6,5 +6,6 @@ dist
 openspec
 .claude
 lessons/.vitepress/cache
+.DS_Store
 
 CLAUDE.md
